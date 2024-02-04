@@ -65,3 +65,4 @@ public String noCapitals(String str)
 {
   return str.toLowerCase();
 }
+}
